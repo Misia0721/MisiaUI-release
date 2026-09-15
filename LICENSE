@@ -1,0 +1,24 @@
+All rights reserved.
+
+Copyright (c) 2026 Misia.
+
+Misia UI (net.misia.misiaui) is proprietary software. Its source code, its
+documentation and its assets are not open source: no licence is granted to copy,
+modify, merge, publish, sublicense, sell or redistribute them, in whole or in
+part, without the prior written permission of the copyright holder.
+
+You may do the following without asking:
+
+  * play with the compiled mod, in a single-player world, on a server you run, or
+    as part of a modpack — including a modpack published to other people;
+  * write pages (HTML, CSS and Java) that use the library, and distribute those
+    pages as part of your own mod, whether or not your mod requires this one;
+  * read the documentation, the changelog and the published examples.
+
+What requires the copyright holder's agreement is taking the library apart:
+copying or republishing its source, distributing it under another name, or
+shipping a modified build of it.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.

@@ -1,0 +1,4 @@
+# An IDE opens this folder and leaves its own project files here. They are not content — publishing
+# deletes them for the same reason — but a commit is not always made by the publisher.
+.idea/
+*.iml

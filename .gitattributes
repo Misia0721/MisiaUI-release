@@ -1,0 +1,5 @@
+# This repository is generated, byte for byte, from a source tree that stays closed. The publisher
+# that generates it compares file hashes to tell an edit made here from an ordinary publish, and it
+# warns about — rather than overwrites — what it does not recognise. Git rewriting anything on
+# checkout would look exactly like somebody having edited every file, so nothing is rewritten here.
+* -text

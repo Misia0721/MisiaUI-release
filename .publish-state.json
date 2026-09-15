@@ -1,0 +1,29 @@
+{
+  "version": "0.1.0-beta",
+  "files": {
+    "CHANGELOG.md": "923019f6043c3f5ef3233e88c2d505474d5f54dcaf54a79091da59a5af1243e3",
+    "LICENSE": "8fd180c16fdb6cd4097f36e131d05bd14980776ebb062750e8479f6f4c4e140c",
+    "docs/guide/01-overview.md": "d9536ab137107a3afde117014861f83a4a95f2bbad8994b7ea01bbadc61d2f9e",
+    "docs/guide/02-getting-started.md": "275e95d3174b7bc4b09270e15be8200406d08a1abe991f8d07a286cf75f1f2f5",
+    "docs/guide/03-html.md": "93ba86770eeec5b91850236172631730ca260d29ff7ce10130d93cc127a92182",
+    "docs/guide/04-css.md": "e80c212513ffd00509bdc74c825e10120304ebd55d0d2f85dde5ee1c75165c9f",
+    "docs/guide/05-layout.md": "ebca465987bca30a22f96563acbad1aaac4d4fa05092b9464b49278b90be8732",
+    "docs/guide/06-components.md": "c5636471c2c6a5e61be0e604b1a5765c5f1aa5166c3e0a9935a53f049d4b829b",
+    "docs/guide/07-forms.md": "c4320976284846ff6f494ed17bed8b95569a2710dbf281eda1ce6eb6ca095f85",
+    "docs/guide/08-binding.md": "6b36ebc6999d410464e624872437d5d8c7c60e7ddb426a7166075266d551ba65",
+    "docs/guide/09-actions.md": "27df82db61148f2d4b52d15ce096a022b10580c06552d612b6c5c3bd23999a3c",
+    "docs/guide/10-resources.md": "7baea57c43efe4025ee0855e1db907f7f0a9b2405f70ab364f7e182b0a808d73",
+    "docs/guide/11-java-api.md": "43a5f6da24316031794687662e1f8f29f26dc6ca188b10dce67026baacac105d",
+    "docs/guide/12-theming.md": "098d8fdd58ccfacd52f287edbe888c66beb5b863a0eaaaefb9823ed935713c85",
+    "docs/guide/13-debugging.md": "0c8972848153926103174dc9c254fb23d5cd03563abf847b5f3978391b89cd4a",
+    "docs/guide/14-limitations.md": "7c26b02fa5cd15cfe3fe818f4818ec536f17add613eb34a5b56b3adb996d54cf",
+    "docs/guide/README.md": "8b90d3450d079760bf33d6ae56b6836e630b05e49ba15e9bb8b72c5ac86ccec9",
+    "screenshots/demo-in-game.png": "d7a8214437e4f7c5ebd4ac8d46478e7ae427b0814120da81bb16d780b5c44dc1",
+    "screenshots/gallery-in-game.png": "0ea9fdd1bbf3bc60edda75aaeeb0056aa8e3ae701f48be430f81d0f0d3a8b1d2",
+    "screenshots/README.md": "f11a503dfdccfaedbce8ce63f36b266f08aa9917afd99eab0950f8bf4716d860",
+    "screenshots/select-open-in-game.png": "42c284e100f87a9d6748575b2bd5cdc233f9c5b99023b5487d01ddc0b5e0646b",
+    "screenshots/text-selection-in-game.png": "cefbcdb3069c4fb7871379e7fed21104a93de41c1486e15c6b97c6bb69b3f4f1",
+    "screenshots/textures-in-game.png": "66139c8ede0ef1691ea43abc48ff436f49acad539e5d8e97ea1d47740d192f2a",
+    "README.md": "63df736bbd9438e48db571faaa7a05885e1b4650672d09c410fd6a04480f02e2"
+  }
+}
